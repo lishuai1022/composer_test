@@ -1,0 +1,22 @@
+{
+    "name": "lishuai1022/composer_test",
+    "description": "composer_test",
+    "type": "",
+    "keywords": [
+        "test",
+    ],
+    "homepage": "",
+    "license": "",
+    "authors": [
+        {
+            "name": "lishuai",
+            "email": "lishuai1022@126.com"
+        }
+    ],
+    "require": {
+        
+    },
+    "require-dev": {
+        
+    }
+}
