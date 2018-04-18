@@ -1,7 +1,7 @@
 {
     "name": "lishuai1022/composer_test",
     "description": "composer_test",
-    "type": "",
+    "type": "library",
     "keywords": [
         "test"
     ],
