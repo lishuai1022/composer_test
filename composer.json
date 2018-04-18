@@ -6,7 +6,7 @@
         "test"
     ],
     "homepage": "http://www.youlikj.com",
-    "license": "Apache-2.0",
+    "license": "MIT",
     "authors": [
         {
             "name": "lishuai",
@@ -14,10 +14,6 @@
         }
     ],
     "require": {
-        "php": "^5.3.3 || ^7.0",
-        "another-vendor/package": "1.*"
-    },
-    "require-dev": {
-        
+        "php": "^5.3.3 || ^7.0"
     }
 }
